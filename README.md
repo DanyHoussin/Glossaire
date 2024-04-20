@@ -402,7 +402,7 @@ b.	JavaScript
 
 c.	HTML
 
-Answer : a. PHP
+    -  Answer : a. PHP
 
 🟦 3)	What is the purpose of a web browser ?
 
@@ -412,7 +412,7 @@ b.	To execute serve-side code
 
 c.	To manage databases
 
-Answer : a. To render and display web pages
+    -  Answer : a. To render and display web pages
 
 🟥 4)	What is the difference between GET and POST methods in HTTP ?
 
