@@ -49,12 +49,14 @@
 🟦 26.	Quelle balise HTML permet de créer un lien hypertexte ?
     - La balise <a>
 🟥 28.	Qu’est-ce qu’une requête AJAX ?
-🟥 29.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+🟦 29.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+    - Le sélecteur universel *, on suit avec la class que l'on veut éditer (Exemple : *.greenwood{...}
 🟥 30.	Définir le responsive design
 🟥 31.	Qu’est-ce que le templating ?
 🟥 32.	Qu’est-ce qu’une fonction anonyme en Javascript ?
 🟥 33.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
-🟥 34.	Qu’est-ce qu’un « media query » ?
+🟦 34.	Qu’est-ce qu’un « media query » ?
+    - Un code appliqué dans le .css d'une page web, permettant d'adapter l'apparence du site en fonction de l'écran du media en question. (Exemple : @media only screen and (max-width: 1000px) {...})
 🟥 35.	Qu’est-ce qu’un pseudo élément en CSS ?
 🟥 36.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 🟥 37.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
@@ -159,11 +161,24 @@ h.	Concaténer 2 chaînes de caractères
 🟥 103.	Définir la « validation des entrées »
 
 ## RGPD
-🟥 104.	Qu’est-ce que le RGPD ?
-🟥 105.	Quel est son objectif principal ?
-🟥 106.	Quelle est la date d’entrée en vigueur du RGPD ?
-🟥 107.	Quelles sont les sanctions possibles en cas de non-respect du RGPD ?
-🟥 108.	En France, quel est l’autorité administrative qui s’occupe de faire appliquer le RGPD ?
+🟦 104.	Qu’est-ce que le RGPD ?
+    - Règlement général sur la protection des données.
+🟦 105.	Quel est son objectif principal ?
+    - Sécurisé et encadré les traitements de données des utilisateurs d'internet.
+🟦 106.	Quelle est la date d’entrée en vigueur du RGPD ?
+    -  La date d'entrée en vigueur du RGPD est le 24 mai 2016, elle a été appliqué depuis le 25 mai 2018.
+🟦 107.	Quelles sont les sanctions possibles en cas de non-respect du RGPD ?
+    -  Les sanctions possibles en cas de non-respect du RGPD sont :
+         - Prononcer un rappel à l’ordre ;
+         - Ordonner de mettre le traitement en conformité, y compris sous astreinte (Amende ou autre contrainte) ;
+         - Limiter un traitement ;
+         - Suspendre les flux de données ;
+         - Ordonner de satisfaire aux demandes d'exercice des droits des personnes, y compris sous astreinte ;
+         - Une amende administrative.
+
+🟦 108.	En France, quel est l’autorité administrative qui s’occupe de faire appliquer le RGPD ?
+    -  Le CNIL (Commission Nationale de l’Informatique et des Libertés)
+
 🟥 109.	Quel est le consentement valide selon le RPGD ?
 🟥 110.	Qu’est-ce qu’une politique de confidentialité ?
 🟥 111.	Quelle est la durée de conservation maximale des données personnelles selon le RGPD ?
