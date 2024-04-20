@@ -14,52 +14,67 @@
 
 ## Général
 🟦 1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte
+
     - 2 exemples de logiciels, ca serait Laragon et MAMP pour les MacOS.
-🟦 3.	Qu’est-ce qu’un algorithme ?
+    
+🟦 2.	Qu’est-ce qu’un algorithme ?
+
     - Suite de protocole et d'execution de règle venant effectuer un ou des calcules.
-🟦 5.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+    
+🟦 3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+
     - Une variable est une sorte de boîte où l'on stock soit : - une chaine de caractère (string), un nombre entier (integer), un tableau (array), etc...
-🟥 6.	Qu’est-ce que la portée d’une variable ?
-🟦 7.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
+    
+🟥 4.	Qu’est-ce que la portée d’une variable ?
+
+🟦 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
+
     - Une constante est une valeur qui ne peut pas être modifier, la différence avec la variable c'est que celle-ci est modifiable durant l'application d'un code.
-🟥 9.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
-🟥 10.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
-🟥 11.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
-🟥 12.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
-🟦 13.	Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+    
+🟥 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
+
+🟥 7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+
+🟥 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
+
+🟥 9.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
+
+🟦 10.	Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+
     - strlen().
-🟥 15.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
-🟥 17.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
-🟥 18.	Quelle est la différence entre les instructions « require » et « include » en PHP
-🟥 19.	Comment effectuer une redirection en PHP ?
-🟦 20.	Définir la partie « front-end » et « back-end » d’une application
+    
+🟥 11.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
+🟥 12.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
+🟥 13.	Quelle est la différence entre les instructions « require » et « include » en PHP
+🟥 14.	Comment effectuer une redirection en PHP ?
+🟦 15.	Définir la partie « front-end » et « back-end » d’une application
     - Le front-end c'est la partie vue par le client, ce qu'il voit directement depuis l'écran (Exemple : HTML/CSS), le back-end c'est la partie caché que le client ne voit pas, c'est ce qui ce trouve du côté serveur (Exemple : PHP)
-🟥 22.	Définir le contrôle de version ? Qu’est-ce que Git ?
-🟥 23.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+🟥 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
+🟥 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
 
 ## Front-end
 🟦 18.	Définir HTML
     - L'HTML est un langage de programation frond-end, s'accouplant avec le language CSS, le côté HTML permet de bien structurer le site web.
-🟦 20.	Définir CSS
+🟦 19.	Définir CSS
     - le CSS, lui aussi un langage frond-end, s'occupe du côté affichage et esthétique du site.
-🟥 22.	Définir Javascript
-🟥 23.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
-🟥 24.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
-🟥 25.	Qu’est-ce qu’un sélecteur CSS ?
-🟦 26.	Quelle balise HTML permet de créer un lien hypertexte ?
+🟥 20.	Définir Javascript
+🟥 21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
+🟥 22.	Peut-on interpréter du Javascript côté serveur ? Si oui, comment ?
+🟥 23.	Qu’est-ce qu’un sélecteur CSS ?
+🟦 24.	Quelle balise HTML permet de créer un lien hypertexte ?
     - La balise <a>
-🟥 28.	Qu’est-ce qu’une requête AJAX ?
-🟦 29.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
+🟥 25.	Qu’est-ce qu’une requête AJAX ?
+🟦 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
     - Le sélecteur universel *, on suit avec la class que l'on veut éditer (Exemple : *.greenwood{...}
-🟥 30.	Définir le responsive design
-🟥 31.	Qu’est-ce que le templating ?
-🟥 32.	Qu’est-ce qu’une fonction anonyme en Javascript ?
-🟥 33.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
-🟦 34.	Qu’est-ce qu’un « media query » ?
+🟥 27.	Définir le responsive design
+🟥 28.	Qu’est-ce que le templating ?
+🟥 29.	Qu’est-ce qu’une fonction anonyme en Javascript ?
+🟥 30.	Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?
+🟦 31.	Qu’est-ce qu’un « media query » ?
     - Un code appliqué dans le .css d'une page web, permettant d'adapter l'apparence du site en fonction de l'écran du media en question. (Exemple : @media only screen and (max-width: 1000px) {...})
-🟥 35.	Qu’est-ce qu’un pseudo élément en CSS ?
-🟥 36.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
-🟥 37.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
+🟥 32.	Qu’est-ce qu’un pseudo élément en CSS ?
+🟥 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+🟥 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
 ## UX UI
 🟥 35.	Quelle est la différence entre UX Design et UI Design ?
