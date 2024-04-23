@@ -392,7 +392,7 @@ b.	Define the layout and design of web pages
 
 c.	Handle server-side operations
 
-Answer :
+    -  Answer : a. Add interactive behavior and dynamic content
 
 🟦 2)	Which programming language is primarily used for server-side web development ?
 
