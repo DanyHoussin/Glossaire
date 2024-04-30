@@ -318,13 +318,13 @@ h.	Concaténer 2 chaînes de caractères
 
 🟥 111.	Quelle est la durée de conservation maximale des données personnelles selon le RGPD ?
 
-🟥 112.	Quels sont les droits des utilisateurs selon le RGPD ?
+🟦 112.	Quels sont les droits des utilisateurs selon le RGPD ?
 
     -  les droits renforcés : Droit d'information, droit d'accès, droit de rectification, droit d'opposition, droit à l'effacement ( "à l'oubli" ) ; les nouveaux droits : droit à la portabilité (si le traitement est automatisé), droit à la limitation du traitement, droit lié à la prise de décision automatisée.
 
 
 
-🟥 113.	Qu’est-ce que le principe de minimisation des données selon le RGPD ?
+🟦 113.	Qu’est-ce que le principe de minimisation des données selon le RGPD ?
 
     -  Collecter les données nécessaire d'un utilisateur pour l'organisme en question
 
@@ -390,7 +390,7 @@ h.	Concaténer 2 chaînes de caractères
 
  
 ## English
-🟥 1)	What does JavaScript enable you to do on a website ?
+🟦 1)	What does JavaScript enable you to do on a website ?
 
 a.	Add interactive behavior and dynamic content
 
