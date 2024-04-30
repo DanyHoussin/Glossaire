@@ -320,7 +320,13 @@ h.	Concaténer 2 chaînes de caractères
 
 🟥 112.	Quels sont les droits des utilisateurs selon le RGPD ?
 
+    -  les droits renforcés : Droit d'information, droit d'accès, droit de rectification, droit d'opposition, droit à l'effacement ( "à l'oubli" ) ; les nouveaux droits : droit à la portabilité (si le traitement est automatisé), droit à la limitation du traitement, droit lié à la prise de décision automatisée.
+
+
+
 🟥 113.	Qu’est-ce que le principe de minimisation des données selon le RGPD ?
+
+    -  Collecter les données nécessaire d'un utilisateur pour l'organisme en question
 
 ## SEO
 🟥 114.	Qu’est-ce que le SEO ? 
