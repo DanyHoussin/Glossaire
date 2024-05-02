@@ -125,13 +125,13 @@
 ##  Programmation orientée objet (POO)
 🟥 43.	Donner une définition de la programmation orientée objet 
 
-🟥 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
+🟦 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 
     - Une classe est un ensemble de propriété et de méthodes permettant de créer et d'attribuer des caractéristiques à un objet.
 
-🟥 45.	Qu’est-ce qu’un objet ?
+🟦 45.	Qu’est-ce qu’un objet ?
 
-    - 
+    - Un objet n'importe (Un livre, un portable, un clavier,...) ayant des caractéristiques propre à lui, une représentation de la classe qui lui est concerné.
 
 🟥 46.	Définir la notion de propriété / attribut / méthode
 
