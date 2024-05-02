@@ -127,7 +127,11 @@
 
 🟥 44.	Qu’est-ce qu’une classe ? Comment la déclare-t-on ?
 
+    - Une classe est un ensemble de propriété et de méthodes permettant de créer et d'attribuer des caractéristiques à un objet.
+
 🟥 45.	Qu’est-ce qu’un objet ?
+
+    - 
 
 🟥 46.	Définir la notion de propriété / attribut / méthode
 
