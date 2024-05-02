@@ -137,9 +137,13 @@
 
 🟥 47.	Qu’est-ce que la visibilité d’une propriété ou d’une méthode ? Citer les différents types de visibilité
 
-🟥 48.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
+🟦 48.	Quelle est la méthode spécifique utilisée pour créer un nouvel objet à partir d’une classe ?
 
-🟥 49.	Qu’est-ce que l’encapsulation ?
+    - La méthode magique __construct()
+
+🟦 49.	Qu’est-ce que l’encapsulation ?
+
+    - Utilisation et modification des attributs d'une classe en passant que par des fonctions s'y trouvant (Attribut non modifiable avec des fonctions endehors de la classe concerné).
 
 🟥 50.	Que signifie « étendre une classe » ? Quelle est le concept clé mis en œuvre ? Donner un exemple
 
@@ -153,7 +157,9 @@
 
 🟥 55.	Définir le chaînage de méthodes
 
-🟥 56.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
+🟦 56.	Qu’est-ce que la méthode __toString() ? Existe-t-il d’autres méthodes « magiques »
+
+    - La méthode magique __toString() permet de modifier le comportement d'une classe quand on pose une chaine de caractère comme valeur dans la classe. Il existe d'autre méthode magique commme celle que j'ai utilisé le plus pour le moment : __construct()
 
 🟥 57.	Qu’est-ce qu’un « autoload » ?
 
