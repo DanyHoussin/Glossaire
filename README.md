@@ -339,17 +339,29 @@ h.	Concaténer 2 chaînes de caractères
     -  Collecter les données nécessaire d'un utilisateur pour l'organisme en question
 
 ## SEO
-🟥 114.	Qu’est-ce que le SEO ? 
+🟦 114.	Qu’est-ce que le SEO ? 
 
-🟥 115.	Quel est l’objectif principal du SEO ?
+    - Le SEO (Search Engine optimization) est un procédé qui permet l'optimisation de la positionnement d'un site web dans un moteur de recherche
 
-🟥 116.	Existe-t-il plusieurs types de référencement ? Lesquels ?
+🟦 115.	Quel est l’objectif principal du SEO ?
 
-🟥 117.	Qu’est-ce que la densité de mots-clés en SEO ?
+    - Augmenter le trafic (Nombres d'utilisateurs visistant le site), la conversion de l'utilisateur en un client intéréssé par le produit vendu et un retour sur investissement
 
-🟥 118.	Qu’est-ce qu’une balise « alt » ?
+🟦 116.	Existe-t-il plusieurs types de référencement ? Lesquels ?
 
-🟥 119.	Qu’est-ce que la balise « meta description » ?
+    - Oui, le référecement Naturel et le référecement payant ou sponsorisés.
+
+🟦 117.	Qu’est-ce que la densité de mots-clés en SEO ?
+
+    - L'apparation d'un mots-clé dans une page en fonction du nombre de mots total dans la page
+
+🟦 118.	Qu’est-ce qu’une balise « alt » ?
+
+    - Cette balise permet de décrire l'img qui se trouve dans la même ligne de code, permetant le referencement grâce à ca description et l'aide aux mal-voyants.
+
+🟦 119.	Qu’est-ce que la balise « meta description » ?
+
+    - la description qui se trouve en dessous du titre du site (principalement en gris en dessous du titre en bleu). Dans le code HTML, elle se situe dans la balise <head> accompagné de la balise <title>
 
 🟥 120.	Qu’est-ce que le « nofollow » en SEO ?
 
@@ -361,7 +373,9 @@ h.	Concaténer 2 chaînes de caractères
 
 🟥 124.	Qu'est-ce que le maillage interne et pourquoi est-il important pour le référencement ?
 
-🟥 125.	Qu'est-ce que l'optimisation des images pour le référencement ?
+🟦 125.	Qu'est-ce que l'optimisation des images pour le référencement ?
+
+    - L'optimisation des images perment un chargement plus rapide du site web en question, pour avoir un résultat plus fluide et agréable, cela consiste à réduire la qualité de l'image et/ou de changer son format.
 
 🟥 126.	Qu'est-ce qu'un plan de site (sitemap) et pourquoi est-il important pour le référencement ?
 
