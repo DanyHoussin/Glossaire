@@ -25,7 +25,9 @@
 
     - Une variable est une sorte de boîte où l'on stock soit : - une chaine de caractère (string), un nombre entier (integer), un tableau (array), etc...
     
-🟥 4.	Qu’est-ce que la portée d’une variable ?
+🟦 4.	Qu’est-ce que la portée d’une variable ?
+
+    - La zone de code où la variable a été poser, dans un ou plusieurs bloc ou fonction.
 
 🟦 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
 
@@ -35,7 +37,9 @@
 
 🟥 7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
 
-🟥 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
+🟦 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
+
+    - Oui, il y a les tableaux numérautés (les valeurs sont des nombres), les tableaux associatifs (clé => valeur) et multidimensionnels (un ou des tableaux dans un tableau)
 
 🟥 9.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 
@@ -68,7 +72,9 @@
 
     - le CSS, lui aussi un langage frond-end, s'occupe du côté affichage et esthétique du site.
     
-🟥 20.	Définir Javascript
+🟦 20.	Définir Javascript
+
+    - Language de programmation, mélangeant le côté front et back end, dynamisant le contenu d'un site internet.
 
 🟥 21.	Définir JSON. Dans quel contexte ce format est-il utilisé ? 
 
