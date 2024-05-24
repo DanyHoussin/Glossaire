@@ -49,13 +49,19 @@
 
     - strlen().
     
-🟥 11.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
+🟦 11.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
 
-🟥 12.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
+    - C'est ce qui permet au serveur de retenir les données d'un utilisateur en les stockant et en les rappellant quand ce dernier le demande, la fonction qui permet de démarrer une session en php est session_start().
+
+🟦 12.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
+
+    - Un fichier permettant au serveur de voir les informations d'un utilisateur/client
 
 🟥 13.	Quelle est la différence entre les instructions « require » et « include » en PHP
 
-🟥 14.	Comment effectuer une redirection en PHP ?
+🟦 14.	Comment effectuer une redirection en PHP ?
+
+    - header("Location:...")
 
 🟦 15.	Définir la partie « front-end » et « back-end » d’une application
 
@@ -108,7 +114,9 @@
     
 🟥 32.	Qu’est-ce qu’un pseudo élément en CSS ?
 
-🟥 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+🟦 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
+
+    - Un catalogue HTML/CSS/JavaScript, proposant un large choix de classe, de style, d'animation déjà préparer aux clients pour lui faire gagner du temps sur son projet.
 
 🟥 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
@@ -452,7 +460,7 @@ c.	To manage databases
 
     -  Answer : a. To render and display web pages
 
-🟥 4)	What is the difference between GET and POST methods in HTTP ?
+🟦 4)	What is the difference between GET and POST methods in HTTP ?
 
 a.	GET retrieves data from a server, while POST submits data to a server
 
@@ -460,7 +468,7 @@ b.	GET submits data to a server, while POST retrieves data from a server
 
 c.	GET and POST methods are interchangeable
 
-Answer : 
+    -  Answer : c.	GET and POST methods are interchangeable
 
 🟥 5)	What is the purpose of version control systems (e.g., Git) in web development ?
 
