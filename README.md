@@ -116,7 +116,7 @@
 
 🟦 33.	Qu’est-ce que Bootstrap ? Donner d’autres exemples équivalent
 
-    - Un catalogue HTML/CSS/JavaScript, proposant un large choix de classe, de style, d'animation déjà préparer aux clients pour lui faire gagner du temps sur son projet. Un équivalent à Bootstrap c'est Ulkit.
+    - Une librairie HTML/CSS/JavaScript, proposant un large choix de classe, de style, d'animation déjà préparer aux clients pour lui faire gagner du temps sur son projet. Un équivalent à Bootstrap c'est Ulkit.
 
 🟥 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
