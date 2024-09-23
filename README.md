@@ -121,7 +121,9 @@
 🟥 34.	Quand un formulaire HTML est créé, quelles sont les 2 méthodes qui peuvent lui être associées ? Donner la différence entre ces 2 méthodes
 
 ## UX UI
-🟥 35.	Quelle est la différence entre UX Design et UI Design ?
+🟦 35.	Quelle est la différence entre UX Design et UI Design ?
+
+    - L'UX Design s'occupe principalement de l'accésibilité du site web, logiciel et application mobile, il offre au client et à l'utilisateur une navigation optimale et facile à prendre en main. Tandis que l'UI Design s'occupe de la partie esthétique et coloration, son but est de donner un visuel agréable à l'utilisateur.
 
 🟥 36.	Qu’est-ce qu’un wireframe ? 
 
@@ -129,13 +131,17 @@
 
 🟥 38.	Qu’est-ce que la hiérarchie visuelle en UI Design ?
 
-🟥 39.	Qu’est-ce que l’accessibilité en UX Design ? 
+🟦 39.	Qu’est-ce que l’accessibilité en UX Design ? 
+
+    - L'accessibilité est la prise en main des sites ou logiciel par les utilisateurs, prenant en compte aussi leurs capacités et leur handicap
 
 🟥 40.	Qu’est-ce qu’une grille de mise en page ?
 
 🟥 41.	Qu’est-ce que la notion d’affordance en UX Design ?
 
-🟥 42.	Qu’est-ce qu’un « mobile first design » ?
+🟦 42.	Qu’est-ce qu’un « mobile first design » ?
+
+    - Créer un site web en débutant par sa version mobile pour ensuite l'agrandir et l'adapter pour les versions PC et autres écrans.
 
     
 ##  Programmation orientée objet (POO)
