@@ -100,7 +100,9 @@
 
     - Le sélecteur universel *, on suit avec la class que l'on veut éditer (Exemple : *.greenwood{...}
     
-🟥 27.	Définir le responsive design
+🟦 27.	Définir le responsive design
+
+    - Le responsive design vise à adapter/ajuster la taille et optimiser la navigation d'un site web sur n'importe quel écran d'appareil (PC, téléphone, tablette, etc..)
 
 🟥 28.	Qu’est-ce que le templating ?
 
@@ -125,9 +127,13 @@
 
     - L'UX Design s'occupe principalement de l'accésibilité du site web, logiciel et application mobile, il offre au client et à l'utilisateur une navigation optimale et facile à prendre en main. Tandis que l'UI Design s'occupe de la partie esthétique et coloration, son but est de donner un visuel agréable à l'utilisateur.
 
-🟥 36.	Qu’est-ce qu’un wireframe ? 
+🟦 36.	Qu’est-ce qu’un wireframe ? 
 
-🟥 37.	Qu’est-ce qu’un prototype ? 
+    - Un wireframe est le squelette d'un site web, il permet de mettre en ordre la disposition des éléments et ainsi mettre en place l'accessibilité d'un site web sans se préoccuper de l'esthétique
+
+🟦 37.	Qu’est-ce qu’un prototype ? 
+
+    - Un prototype est une version de test de notre site web, créer pour tester et valider l'aspect esthétique et l'accessibilité de notre conception.
 
 🟥 38.	Qu’est-ce que la hiérarchie visuelle en UI Design ?
 
