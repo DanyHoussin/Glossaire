@@ -69,7 +69,9 @@
     
 🟥 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
 
-🟥 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+🟦 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+
+    - Un CMS est un logiciel de création de site web, un moyen de conception rapide, sans avoir à coder, pour des sites de type E-commerce ou entreprise. Exemple : Wordpress ; Wix
 
 ## Front-end
 🟦 18.	Définir HTML
@@ -94,7 +96,9 @@
 
     - La balise <a>
     
-🟥 25.	Qu’est-ce qu’une requête AJAX ?
+🟦 25.	Qu’est-ce qu’une requête AJAX ?
+
+    - Une technique pour envoyer des requêtes au serveur et recevoir des réponses sans recharger la page. Exemple d'utilisation : Un système de compteur de like.
 
 🟦 26.	Quel sélecteur CSS permet de sélectionner tous les éléments d’une classe spécifique ? D’un identifiant spécifique ?
 
@@ -282,15 +286,21 @@ h.	Concaténer 2 chaînes de caractères
 🟥 83.	Comment se connecter à une base de données en PHP ? Quelle est la classe native utilisée ?
 
 ## Symfony
-🟥 84.	Qu’est-ce que Symfony ?
+🟦 84.	Qu’est-ce que Symfony ?
 
-🟥 85.	Sur quel langage de programmation et design pattern repose Symfony ? 
+    - Symfony est un framework permettant la réalisation de projet web de manière plus automatisé (Utile pour des gros projets)
+
+🟦 85.	Sur quel langage de programmation et design pattern repose Symfony ? 
+
+    - Symfony utilise PHP comme langage de programmation.
 
 🟥 86.	Quelle est la dernière version en date de Symfony ?
 
 🟥 87.	Qu’est-ce qu’un bundle ? 
 
-🟥 88.	Quel est le moteur de template utilisé par défaut dans Symfony ?
+🟦 88.	Quel est le moteur de template utilisé par défaut dans Symfony ?
+
+    - Twig est le moteur de template utilisé par défaut dans Symfony.
 
 🟥 89.	Qu’est-ce qu’un ORM ? Quel est son utilité et comment s’appelle-t-il au sein de Symfony ?
 
@@ -482,7 +492,7 @@ c.	GET and POST methods are interchangeable
 
     -  Answer : c.	GET and POST methods are interchangeable
 
-🟥 5)	What is the purpose of version control systems (e.g., Git) in web development ?
+🟦 5)	What is the purpose of version control systems (e.g., Git) in web development ?
 
 a.	To track changes and manage collaborative development
 
@@ -490,15 +500,17 @@ b.	To optimize website loading speed
 
 c.	To handle server-side scripting
 
-Answer : 
+    -  Answer : a.	To track changes and manage collaborative development
 
-🟥 6)	What is the purpose of a framework in web development ?
+🟦 6)	What is the purpose of a framework in web development ?
 
 a.	To provide a structured environment for building web applications
 
 b.	To handle network protocols and data transfer
 
 c.	To create visual designs and layouts for websites
+
+    -  Answer : a.	To provide a structured environment for building web applications
 
 Answer : 
 
